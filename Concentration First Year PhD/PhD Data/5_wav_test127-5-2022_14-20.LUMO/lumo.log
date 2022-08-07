@@ -1,0 +1,18 @@
+┌ Info: C:\Users\DOT-HUB LUMO\Documents\Gowerlabs\Lumo\5_wav_test127-5-2022_14-20.LUMO\metadata.toml
+└ @ HiveNSI\fileStream.jl:929 [2022-05-27T15:20:36.43]
+┌ Info: HiveNSI: ACQ: controller state transition NSIACQ_STREAMING -> NSIACQ_RECORDING
+└ @ HiveNSI\hive.jl:211 [2022-05-27T15:20:36.431]
+┌ Info: state: 3
+│ substate: 0 
+└ @ HiveNSI\hive.jl:449 [2022-05-27T15:20:36.515]
+┌ Info: HiveNSI: event recieved: "$" at 1653661236633
+└ @ HiveNSI\v1.jl:261 [2022-05-27T15:20:36.712]
+┌ Info: HiveNSI: Request stream start.
+└ @ HiveNSI\v1.jl:115 [2022-05-27T15:21:38.754]
+┌ Info: HiveNSI:  Auto Level
+└ @ HiveNSI\v1.jl:131 [2022-05-27T15:21:38.754]
+┌ Info: HiveNSI: ACQ: controller command NSI_TO_STREAM
+└ @ HiveNSI\hive.jl:38 [2022-05-27T15:21:38.858]
+┌ Info: state: 3
+│ substate: 2 
+└ @ HiveNSI\hive.jl:449 [2022-05-27T15:21:38.912]
